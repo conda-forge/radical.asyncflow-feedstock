@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.0"
+  version: "0.5.1"
 
 package:
   name: radical.asyncflow
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/radical.asyncflow/radical_asyncflow-${{ version }}.tar.gz
-  sha256: e7a0d203fb0731d21f064ac913ecd4b50876436050be7f91a04771a45ea332c9
+  sha256: ccf07e3d931285176587ccd006b350921a90477ec98ac4e9470eff257cf3f251
 
 build:
   number: 0
